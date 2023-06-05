@@ -1,0 +1,6 @@
+laravel/node_modules/*
+laravel/.env.example
+laravel/server.php
+laravel/phpunit.xml
+laravel/.env
+

@@ -1,0 +1,834 @@
+
+@media only screen and (max-width: 1024px){
+  .dfx_text h1{font-size: 50px;}
+  .dfx_text p {font-size: 25px;}
+  .dfx_menu_bars {font-size: 20px;}
+  .dfx_logo{padding: 35px;}
+  .dfx_home_text1 {padding: 35px 0px 0px 0px;}
+  .dfx_sec_home p {padding-top: 40px; padding-bottom: 40px;}
+  .txt_content h5 {font-size: 25pt;}
+  .divisor_y {position: relative;top: 0px;left: 445px;}
+  .txt_content h2 {font-size: 55pt;}
+  .dfx_foot img {margin-top: 5px;padding-right: 55px;}
+  .dfx_logo{padding: 35px;}
+  .dfx_logo img{width: 75%;}
+  .dfx_logo_inverse{padding: 35px;}
+  .dfx_logo_inverse img{width: 75%;}
+  .menu_items_content ul li {font-size: 35px;}
+
+  .info_contacto .content{padding-top: 29%;padding-left: 10%;}
+  .info_contacto .content h1{font-size: 30pt;}
+
+
+  .form_contacto .content{padding: 0;}
+
+  .form_contacto .content .form_wrapper {padding-top: 33%;padding-left: 8%;}
+  .form_contacto .content .form_wrapper form button { width: 75%;}
+}
+
+@media only screen and (max-width: 768px){
+  .dfx_card .card-title {line-height: 45px;letter-spacing: 5px;font-size: 35pt;}
+  .dfx_card .card-text{font-size: 35px; line-height: 40px;}
+  .dfx_line_services{top: -5px;}
+  .dfx_menu_bars{font-size: 40px;}
+  .dfx_logo{padding: 35px;}
+  .dfx_logo img{width: 40%;}
+  .dfx_home_text1 {padding: 14px 0px 0px 0px;}
+  .dfx_sec_home p {padding-top: 45px; padding-bottom: 45px;}
+  .dfx_envolpe ul li {font-size: 35px;}
+  .dfx_social ul li {font-size: 35px;}
+  .dfx_text h1{font-size: 50px;}
+  .dfx_text p {font-size: 35px;}
+  .dfx_text img {top: 35px;}
+  .dfx_btn_head {font-size: 35px;}
+  .btn_exito img {top: -5px;}
+  .txt_content h5 {font-size: 25px;}
+  .txt_content h2 {font-size: 74pt;}
+  .txt_content {padding-top: 44px; padding-bottom: 44px;}
+  .divisor_y {top: 5px;left: 320px;}
+  .dfx_foot p{font-size: 30pt;}
+  .dfx_foot img {margin-top: 10px;padding-right: 250px;}
+  .dfx_card_footer {margin-top: -34px;}
+  .dfx_card a {font-size: 30px;}
+  .dfx_card {height: 715px;}
+  .dfx_card .card-text{padding-top: 55px;}
+  .txt_content h5 {font-size: 35px;}
+  .logo_content{width: 100%;}
+  .item{padding: 0;}
+  .title_recientes{font-size: 45px;}
+  .dfx_menu_bars{font-size: 20px;}
+  .dfx_logo_inverse{padding: 35px;}
+  .dfx_logo_inverse img{width: 40%;}
+  .menu_items_content ul li {font-size: 35px;}
+  .dfx_social{display: none;}
+  /* .dfx_envolpe{display: none;} */
+  .menu_social_content {display: block;}
+  .menu_social_content ul {text-align: center;padding: 0px;}
+  .menu_social_content ul li{display: inline-block;padding: 15px; font-size: 25px;}
+  .menu_social_content ul li a{color: inherit;}
+
+  .info_contacto{width: 100%; height: 50%;}
+  .info_contacto .content{padding-top: 11%;padding-left: 6%;}
+  .info_contacto .content h1{font-size: 20pt;}
+
+  .form_contacto{width: 100%; height: 50%;}
+  .form_contacto .content{padding: 0;}
+
+  .form_contacto .content .form_wrapper {padding-top: 8%;padding-left: 8%;}
+  .form_contacto .content .form_wrapper form button { width: 75%;}
+  .nav-bar .wrapper .item-nav-bar + .item-nav-bar{display: none;}
+  .nav-bar .subtitle{margin-right: 0px !important;}
+  .main h1{font-size: 35pt !important;}
+  #cta-mkt{height: auto !important}
+  .item-cta{margin: 0px !important;padding: 15px;text-align: center !important;line-height: 1 !important;}
+  .s45{font-size: 30px !important;}
+  .line-yellow{width: 100%;}
+  .item-title{text-align: center !important;}
+  .item-servicio{width: 19% !important;}
+  .dfx_sec_beneficios{height: auto !important;}
+  .item-beneficios{width: 90% !important;}
+  .logo-item{width: 65% !important;}
+  .owl-nav{display: none !important;}
+  .caso{padding-left: 0px !important;}
+  .wrapper-casos{display: flex !important;}
+  .wrapper-casos img{width: 60% !important;}
+  .line-white{width: 15px !important;}
+  .info_contacto{display: none !important;}
+  .black-bg , .white-bg{width: 100% !important;}
+  .item-beneficios{padding: 25px !important;}
+  .custom-margin{margin: 0px !important;}
+  .white-bg .container .pt-5 {padding: 0px !important;}
+  .white-bg .container .mb-5 {margin: 0px !important;}
+  .item-servicio{display: flex; flex-direction: column; align-items: center;}
+  .wrapper-casos{width: 100% !important;height: 355px !important;}
+
+}
+
+@media only screen and (max-width: 479px){
+  .dfx_sec_home h1 {font-size: 35px;}
+  .dfx_sec_home p{font-size: 21px;letter-spacing: 4px;line-height: 27px;padding-top: 45px;}
+  .dfx_logo{padding: 35px;}
+  .dfx_logo img{width: 40%;}
+  .dfx_home_text1 {padding: 75px 0px 0px 0px;}
+  .dfx_forms_head {padding-top: 65px;}
+  .dfx_social {top: 60%;}
+  .dfx_envolpe {top: 70%;}
+  .txt_content h2 {font-size: 46pt;}
+  .txt_content h5 {font-size: 18pt;}
+  .divisor_y {position: relative;top: 0px;left: 195px;}
+  .txt_content {padding-top: 80px;padding-bottom: 80px;}
+  .dfx_sec_exito {height: auto;}
+  .dfx_foot img {margin-top: 0px;padding-right: 55px;}
+  .dfx_carousel_content {padding-top: 40px;}
+  .item{padding-left: 55px;}
+  .dfx_line_services {position: relative;left: -42px;top: 25px;width: 10%;}
+  .dfx_menu_bars{font-size: 20px;}
+  .dfx_btn_head{font-size: 15px;}
+  .dfx_card .card-title{font-size: 21pt;}
+  .dfx_card .card-text {padding-top: 30px;font-size: 24px;}
+  .dfx_card a {font-size: 20px;}
+  .dfx_text h1 {font-size: 35px;}
+  .dfx_text p {font-size: 25px;}
+  .title_recientes {font-size: 35px;}
+  .logo_content {width: 100%;padding-left: 115px;}
+  .logo {width: 65%;padding: 20px;}
+  .dfx_foot p{padding-top: 40px;font-size: 20pt;}
+  .dfx_foot img{padding-right: 135px;}
+  .item {padding-left: 0px;}
+  .info{padding-top: 120px;}
+  .menu_items_content {padding-top: 0px;}
+  .menu_items_content ul li {font-size: 25px;text-align: center;margin-left: -45px;}
+  .dfx_logo_inverse{padding: 35px;}
+  .dfx_logo_inverse img{width: 40%;}
+  .dfx_social{display: none;}
+  /* .dfx_envolpe{display: none;} */
+  .menu_social_content {display: block;}
+  .menu_social_content ul {text-align: center;padding: 0px;}
+  .menu_social_content ul li{display: inline-block;padding: 15px; font-size: 25px;}
+  .menu_social_content ul li a{color: inherit;}
+
+  .info_contacto{width: 100%; height: 50%;}
+  .info_contacto .content{padding: 0;padding-top: 25%;}
+  .info_contacto .content h1{font-size: 20pt;}
+
+  .form_contacto{width: 100%; height: 50%;}
+  .form_contacto .content{padding: 0;}
+
+  .form_contacto .content .form_wrapper {padding-top: 15%;padding-left: 15%;}
+  .form_contacto .content .form_wrapper form button { width: 75%;}
+  .nav-bar .wrapper .item-nav-bar + .item-nav-bar{display: none;}
+  .nav-bar .subtitle{margin-right: 0px !important;}
+  .main h1{font-size: 35pt !important;}
+  #cta-mkt{height: 400px !important}
+  .item-cta{margin: 0px !important;padding: 20px;text-align: center !important;line-height: 1 !important;}
+  .s45{font-size: 30px !important;}
+  .line-white{width: 100% !important;}
+  .line-yellow{width: 100%;}
+  .item-title{text-align: center !important;}
+  .item-servicio{width: 90% !important;}
+  .dfx_sec_beneficios{height: auto !important;}
+  .item-beneficios{width: 90% !important;}
+  .logo-item{width: 65% !important;}
+  .owl-nav{display: none !important;}
+  .caso{padding-left: 0px !important;}
+  .wrapper-casos{display: flex !important;}
+  .wrapper-casos img{width: 60% !important;}
+  .info_contacto{display: none !important;}
+  .black-bg , .white-bg{width: 100% !important;}
+  .item-beneficios{padding: 25px !important;}
+  .custom-margin{margin: 0px !important;}
+  .white-bg .container .pt-5 {padding: 0px !important;}
+  .white-bg .container .mb-5 {margin: 0px !important;}
+  .item-servicio{display: flex; flex-direction: column; align-items: center;}
+  .wrapper-casos{width: 100% !important;height: 355px !important;}
+
+}
+
+@media only screen and (max-width: 425px){
+
+  .dfx_sec_home h1 {font-size: 35px;}
+  .dfx_sec_home p{font-size: 21px;letter-spacing: 4px;line-height: 27px;padding-top: 45px;}
+  .dfx_logo{padding: 30px;}
+  .dfx_logo img{width: 55%;}
+  .dfx_home_text1 {padding: 75px 0px 0px 0px;}
+  .dfx_forms_head {padding-top: 65px;}
+  .dfx_social {top: 60%;}
+  .dfx_envolpe {top: 70%;}
+  .txt_content h2 {font-size: 45pt;}
+  .txt_content h5 {font-size: 16pt;}
+  .divisor_y {position: relative;top: 0px;left: 175px;}
+  .txt_content {padding-top: 80px;padding-bottom: 80px;}
+  .dfx_sec_exito {height: auto;}
+  .dfx_foot img {margin-top: 0px;padding-right: 55px;}
+  .dfx_carousel_content {padding-top: 40px;}
+  .logo {width: 100%;padding: 10px 20px;}
+  .item{padding-left: 55px;}
+  .logo_content {width: 100%;}
+  .dfx_line_services {position: relative;left: -42px;top: 25px;width: 10%;}
+  .info{padding-top: 100px;}
+  .menu_items_content {padding-top: 0px;}
+  .menu_items_content ul li {font-size: 20px;text-align: center;margin-left: -45px;}
+  .dfx_logo_inverse{padding: 30px;}
+  .dfx_logo_inverse img{width: 55%;}
+  .dfx_social{display: none;}
+  /* .dfx_envolpe{display: none;} */
+  .menu_social_content {display: block;}
+  .menu_social_content ul {text-align: center;padding: 0px;}
+  .menu_social_content ul li{display: inline-block;padding: 15px; font-size: 25px;}
+  .menu_social_content ul li a{color: inherit;}
+
+  .info_contacto{width: 100%; height: 50%;}
+  .info_contacto .content{padding: 0;padding-top: 25%;}
+  .info_contacto .content h1{font-size: 20pt;}
+
+  .form_contacto{width: 100%; height: 50%;}
+  .form_contacto .content{padding: 0;}
+
+  .form_contacto .content .form_wrapper {padding-top: 15%;padding-left: 15%;}
+  .form_contacto .content .form_wrapper form button { width: 75%;}
+  .nav-bar .wrapper .item-nav-bar + .item-nav-bar{display: none;}
+  .nav-bar .subtitle{margin-right: 0px !important;}
+  .main h1{font-size: 35pt !important;}
+  #cta-mkt{height: 400px !important}
+  .item-cta{margin: 0px !important;padding: 20px;text-align: center !important;line-height: 1 !important;}
+  .s45{font-size: 30px !important;}
+  .line-white{width: 100% !important;}
+  .line-yellow{width: 100%;}
+  .item-title{text-align: center !important;}
+  .item-servicio{width: 90% !important;}
+  .dfx_sec_beneficios{height: auto !important;}
+  .item-beneficios{width: 90% !important;}
+  .logo-item{width: 65% !important;}
+  .owl-nav{display: none !important;}
+  .caso{padding-left: 0px !important;}
+  .wrapper-casos{display: flex !important;}
+  .wrapper-casos img{width: 60% !important;}
+  .info_contacto{display: none !important;}
+  .black-bg , .white-bg{width: 100% !important;}
+  .item-beneficios{padding: 25px !important;}
+  .custom-margin{margin: 0px !important;}
+  .white-bg .container .pt-5 {padding: 0px !important;}
+  .white-bg .container .mb-5 {margin: 0px !important;}
+  .item-servicio{display: flex; flex-direction: column; align-items: center;}
+  .wrapper-casos{width: 100% !important;height: 355px !important;}
+
+}
+
+
+@media only screen and (max-width: 375px){
+
+  .dfx_sec_home h1 {font-size: 35px;}
+  .dfx_sec_home p{font-size: 21px;letter-spacing: 4px;line-height: 27px;padding-top: 45px;}
+  .dfx_logo{padding: 30px;}
+  .dfx_logo img{width: 55%;}
+  .dfx_home_text1 {padding: 75px 0px 0px 0px;}
+  .dfx_forms_head {padding-top: 65px;}
+  .dfx_social {top: 60%;}
+  .dfx_envolpe {top: 70%;}
+  .txt_content h2 {font-size: 35pt;}
+  .txt_content h5 {font-size: 16pt;}
+  .divisor_y {position: relative;top: 0px;left: 150px;}
+  .txt_content {padding-top: 80px;padding-bottom: 80px;}
+  .dfx_sec_exito {height: auto;}
+  .dfx_foot img {margin-top: 0px;padding-right: 55px;}
+  .dfx_carousel_content {padding-top: 40px;}
+  .logo {width: 100%;padding: 10px 20px;}
+  .item{padding-left: 55px;}
+  .logo_content {width: 100%;}
+  .info{padding-top: 120px;}
+  .menu_items_content {padding-top: 0px;}
+  .menu_items_content ul li {font-size: 25px;text-align: center;margin-left: -45px;}
+  .dfx_logo_inverse{padding: 30px;}
+  .dfx_logo_inverse img{width: 55%;}
+  .dfx_social{display: none;}
+  /* .dfx_envolpe{display: none;} */
+  .menu_social_content {display: block;}
+  .menu_social_content ul {text-align: center;padding: 0px;}
+  .menu_social_content ul li{display: inline-block;padding: 15px; font-size: 25px;}
+  .menu_social_content ul li a{color: inherit;}
+
+  .info_contacto{width: 100%; height: 50%;}
+  .info_contacto .content{padding: 0;padding-top: 30%;}
+  .info_contacto .content h1{font-size: 20pt;}
+
+  .form_contacto{width: 100%; height: 50%;}
+  .form_contacto .content{padding: 0;}
+
+  .form_contacto .content .form_wrapper {padding-top: 15%;padding-left: 15%;}
+  .form_contacto .content .form_wrapper form button { width: 75%;}
+  .nav-bar .wrapper .item-nav-bar + .item-nav-bar{display: none;}
+  .nav-bar .subtitle{margin-right: 0px !important;}
+  .main h1{font-size: 35pt !important;}
+  #cta-mkt{height: 400px !important}
+  .item-cta{margin: 0px !important;padding: 20px;text-align: center !important;line-height: 1 !important;}
+  .s45{font-size: 30px !important;}
+  .line-white{width: 100% !important;}
+  .line-yellow{width: 100%;}
+  .item-title{text-align: center !important;}
+  .item-servicio{width: 90% !important;}
+  .dfx_sec_beneficios{height: auto !important;}
+  .item-beneficios{width: 90% !important;}
+  .logo-item{width: 65% !important;}
+  .owl-nav{display: none !important;}
+  .caso{padding-left: 0px !important;}
+  .wrapper-casos{display: flex !important;}
+  .wrapper-casos img{width: 60% !important;}
+  .info_contacto{display: none !important;}
+  .black-bg , .white-bg{width: 100% !important;}
+  .item-beneficios{padding: 25px !important;}
+  .custom-margin{margin: 0px !important;}
+  .white-bg .container .pt-5 {padding: 0px !important;}
+  .white-bg .container .mb-5 {margin: 0px !important;}
+  .item-servicio{display: flex; flex-direction: column; align-items: center;}
+  .wrapper-casos{width: 100% !important;height: 355px !important;}
+
+}
+
+@media only screen and (max-width: 320px){
+  body{top: 40px;}
+  .dfx_sec_home h1 {font-size: 35px;}
+  .dfx_card .card-title{font-size: 18pt;}
+  .dfx_sec_home p{font-size: 21px;letter-spacing: 4px;line-height: 27px;padding-top: 45px;}
+  .dfx_logo{padding: 30px;}
+  .dfx_logo img{width: 55%;}
+  .dfx_home_text1 {padding: 75px 0px 0px 0px;}
+  .dfx_forms_head {padding-top: 65px;}
+  .dfx_social {top: 60%;}
+  .dfx_envolpe {top: 70%;}
+  .txt_content h2 {font-size: 30pt;}
+  .txt_content h5 {padding: 9%;}
+  .divisor_y {position: relative;top: 0px;left: 120px;padding-bottom: 10%;}
+  .txt_content {padding-top: 80px;padding-bottom: 80px;}
+  .dfx_sec_exito {height: auto;}
+  .dfx_foot img {margin-top: 0px;padding-right: 55px;}
+  .dfx_carousel_content {padding-top: 40px;}
+  .logo {width: 100%;padding: 10px 20px;}
+  .item{padding-left: 55px;}
+  .logo_content {width: 100%;}
+  .info{padding-top: 120px;}
+  .menu_items_content {padding-top: 0px;}
+  .menu_items_content ul li {font-size: 25px;text-align: center;margin-left: -45px;}
+  .dfx_logo_inverse{padding: 30px;}
+  .dfx_logo_inverse img{width: 55%;}
+  .dfx_social{display: none;}
+  /* .dfx_envolpe{display: none;} */
+  .menu_social_content {display: block;}
+  .menu_social_content ul {text-align: center;padding: 0px;}
+  .menu_social_content ul li{display: inline-block;padding: 15px; font-size: 25px;}
+  .menu_social_content ul li a{color: inherit;}
+
+  .info_contacto{width: 100%; height: 50%;}
+  .info_contacto .content{padding: 0;padding-top: 30%;}
+  .info_contacto .content h1{font-size: 20pt;}
+
+  .form_contacto{width: 100%; height: 50%;}
+  .form_contacto .content{padding: 0;}
+
+  .form_contacto .content .form_wrapper {padding-top: 15%;padding-left: 15%;}
+  .form_contacto .content .form_wrapper form button { width: 75%;}
+  .nav-bar .wrapper .item-nav-bar + .item-nav-bar{display: none;}
+  .nav-bar .subtitle{margin-right: 0px !important;}
+  .main h1{font-size: 35pt !important;}
+  /* new */
+  #cta-mkt{height: 400px !important}
+  .item-cta{margin: 0px !important;padding: 20px;text-align: center !important;line-height: 1 !important;}
+  .s45{font-size: 30px !important;}
+  .line-white{width: 100% !important;}
+  .line-yellow{width: 100%;}
+  .item-title{text-align: center !important;}
+  .item-servicio{width: 90% !important;}
+  .dfx_sec_beneficios{height: auto !important;}
+  .item-beneficios{width: 90% !important;}
+  .logo-item{width: 65% !important;}
+  .owl-nav{display: none !important;}
+  .caso{padding-left: 0px !important;}
+  .wrapper-casos{display: flex !important;}
+  .wrapper-casos img{width: 60% !important;}
+  #cta-mkt{height: 400px !important}
+  .item-cta{margin: 0px !important;padding: 20px;text-align: center !important;line-height: 1 !important;}
+  .s45{font-size: 30px !important;}
+  .line-white{width: 100% !important;}
+  .line-yellow{width: 100%;}
+  .item-title{text-align: center !important;}
+  .item-servicio{width: 90% !important;}
+  .dfx_sec_beneficios{height: auto !important;}
+  .item-beneficios{width: 90% !important;}
+  .logo-item{width: 65% !important;}
+  .owl-nav{display: none !important;}
+  .caso{padding-left: 0px !important;}
+  .wrapper-casos{display: flex !important;}
+  .wrapper-casos img{width: 60% !important;}
+  .info_contacto{display: none !important;}
+  .black-bg , .white-bg{width: 100% !important;}
+  .item-beneficios{padding: 25px !important;}
+  .custom-margin{margin: 0px !important;}
+  .white-bg .container .pt-5 {padding: 0px !important;}
+  .white-bg .container .mb-5 {margin: 0px !important;}
+  .item-servicio{display: flex; flex-direction: column; align-items: center;}
+  .wrapper-casos{width: 100% !important;height: 355px !important;}
+
+}
+
+/* ----------- iPhone 5, 5S, 5C and 5SE ----------- */
+
+/* Portrait and Landscape */
+@media only screen
+and (min-device-width: 320px)
+and (max-device-width: 568px)
+and (-webkit-min-device-pixel-ratio: 2) {
+
+  .logo_content{width: 100%;padding-left: 0;padding-right: 65px}
+  .nav-bar .wrapper .item-nav-bar + .item-nav-bar{display: none;}
+  .nav-bar .subtitle{margin-right: 0px !important;}
+  .main h1{font-size: 35pt !important;}
+  #cta-mkt{height: 400px !important}
+  .item-cta{margin: 0px !important;padding: 20px;text-align: center !important;line-height: 1 !important;}
+  .s45{font-size: 30px !important;}
+  .line-white{width: 100% !important;}
+  .line-yellow{width: 100%;}
+  .item-title{text-align: center !important;}
+  .item-servicio{width: 90% !important;}
+  .dfx_sec_beneficios{height: auto !important;}
+  .item-beneficios{width: 90% !important;}
+  .logo-item{width: 65% !important;}
+  .owl-nav{display: none !important;}
+  .caso{padding-left: 0px !important;}
+  .wrapper-casos{display: flex !important;}
+  .wrapper-casos img{width: 60% !important;}
+  .info_contacto{display: none !important;}
+  .black-bg , .white-bg{width: 100% !important;}
+  .item-beneficios{padding: 25px !important;}
+  .custom-margin{margin: 0px !important;}
+  .white-bg .container .pt-5 {padding: 0px !important;}
+  .white-bg .container .mb-5 {margin: 0px !important;}
+  .item-servicio{display: flex; flex-direction: column; align-items: center;}
+  .wrapper-casos{width: 100% !important;height: 355px !important;}
+
+
+}
+
+/* Portrait */
+@media only screen
+and (min-device-width: 320px)
+and (max-device-width: 568px)
+and (-webkit-min-device-pixel-ratio: 2)
+and (orientation: portrait) {
+  .logo_content{width: 100%;padding-left: 0;padding-right: 65px}
+  .nav-bar .wrapper .item-nav-bar + .item-nav-bar{display: none;}
+  .nav-bar .subtitle{margin-right: 0px !important;}
+  .main h1{font-size: 35pt !important;}
+  #cta-mkt{height: 400px !important}
+  .item-cta{margin: 0px !important;padding: 20px;text-align: center !important;line-height: 1 !important;}
+  .s45{font-size: 30px !important;}
+  .line-white{width: 100% !important;}
+  .line-yellow{width: 100%;}
+  .item-title{text-align: center !important;}
+  .item-servicio{width: 90% !important;}
+  .dfx_sec_beneficios{height: auto !important;}
+  .item-beneficios{width: 90% !important;}
+  .logo-item{width: 65% !important;}
+  .owl-nav{display: none !important;}
+  .caso{padding-left: 0px !important;}
+  .wrapper-casos{display: flex !important;}
+  .wrapper-casos img{width: 60% !important;}
+  .info_contacto{display: none !important;}
+  .black-bg , .white-bg{width: 100% !important;}
+  .item-beneficios{padding: 25px !important;}
+  .custom-margin{margin: 0px !important;}
+  .white-bg .container .pt-5 {padding: 0px !important;}
+  .white-bg .container .mb-5 {margin: 0px !important;}
+  .item-servicio{display: flex; flex-direction: column; align-items: center;}
+  .wrapper-casos{width: 100% !important;height: 355px !important;}
+
+
+
+  /* .info_contacto{width: 100%; height: 50%;}
+  .info_contacto .content{padding: 0;padding-top: 10%;font-size: 14px;}
+  .info_contacto .content h1{font-size: 20pt;}
+
+  .form_contacto{width: 100%; height: 50%;}
+  .form_contacto .content{padding: 0;font-size: 13px;}
+
+  .form_contacto .content .form_wrapper {padding-top: 2%;padding-left: 15%;}
+  .form_contacto .content .form_wrapper form button { width: 75%;margin-top: 15px;} */
+}
+
+
+
+/* Landscape */
+@media only screen
+and (min-device-width: 320px)
+and (max-device-width: 568px)
+and (-webkit-min-device-pixel-ratio: 2)
+and (orientation: landscape) {
+  .logo_content{width: 100%;padding-left: 0;padding-right: 65px}
+  .nav-bar .wrapper .item-nav-bar + .item-nav-bar{display: none;}
+  .nav-bar .subtitle{margin-right: 0px !important;}
+  .main h1{font-size: 35pt !important;}
+  #cta-mkt{height: 400px !important}
+  .item-cta{margin: 0px !important;padding: 20px;text-align: center !important;line-height: 1 !important;}
+  .s45{font-size: 30px !important;}
+  .line-white{width: 100% !important;}
+  .line-yellow{width: 100%;}
+  .item-title{text-align: center !important;}
+  .item-servicio{width: 90% !important;}
+  .dfx_sec_beneficios{height: auto !important;}
+  .item-beneficios{width: 90% !important;}
+  .logo-item{width: 65% !important;}
+  .owl-nav{display: none !important;}
+  .caso{padding-left: 0px !important;}
+  .wrapper-casos{display: flex !important;}
+  .wrapper-casos img{width: 60% !important;}
+  .info_contacto{display: none !important;}
+  .black-bg , .white-bg{width: 100% !important;}
+  .item-beneficios{padding: 25px !important;}
+  .custom-margin{margin: 0px !important;}
+  .white-bg .container .pt-5 {padding: 0px !important;}
+  .white-bg .container .mb-5 {margin: 0px !important;}
+  .item-servicio{display: flex; flex-direction: column; align-items: center;}
+  .wrapper-casos{width: 100% !important;height: 355px !important;}
+
+}
+
+/* ----------- iPhone 6, 6S, 7 and 8 ----------- */
+
+/* Portrait and Landscape */
+@media only screen (-webkit-min-device-pixel-ratio: 2) {
+  .logo_content{width: 100%;padding-left: 0;padding-right: 65px}
+  .nav-bar .wrapper .item-nav-bar + .item-nav-bar{display: none;}
+  .nav-bar .subtitle{margin-right: 0px !important;}
+  .main h1{font-size: 35pt !important;}
+  #cta-mkt{height: 400px !important}
+  .item-cta{margin: 0px !important;padding: 20px;text-align: center !important;line-height: 1 !important;}
+  .s45{font-size: 30px !important;}
+  .line-white{width: 100% !important;}
+  .line-yellow{width: 100%;}
+  .item-title{text-align: center !important;}
+  .item-servicio{width: 90% !important;}
+  .dfx_sec_beneficios{height: auto !important;}
+  .item-beneficios{width: 90% !important;}
+  .logo-item{width: 65% !important;}
+  .owl-nav{display: none !important;}
+  .caso{padding-left: 0px !important;}
+  .wrapper-casos{display: flex !important;}
+  .wrapper-casos img{width: 60% !important;}
+  .info_contacto{display: none !important;}
+  .black-bg , .white-bg{width: 100% !important;}
+  .item-beneficios{padding: 25px !important;}
+  .custom-margin{margin: 0px !important;}
+  .white-bg .container .pt-5 {padding: 0px !important;}
+  .white-bg .container .mb-5 {margin: 0px !important;}
+  .item-servicio{display: flex; flex-direction: column; align-items: center;}
+  .wrapper-casos{width: 100% !important;height: 355px !important;}
+
+}
+
+/* Portrait */
+@media only screen (-webkit-min-device-pixel-ratio: 2)
+and (orientation: portrait) {
+  .logo_content{width: 100%;padding-left: 0;padding-right: 65px}
+  .nav-bar .wrapper .item-nav-bar + .item-nav-bar{display: none;}
+  .nav-bar .subtitle{margin-right: 0px !important;}
+  .main h1{font-size: 35pt !important;}
+  #cta-mkt{height: 400px !important}
+  .item-cta{margin: 0px !important;padding: 20px;text-align: center !important;line-height: 1 !important;}
+  .s45{font-size: 30px !important;}
+  .line-white{width: 100% !important;}
+  .line-yellow{width: 100%;}
+  .item-title{text-align: center !important;}
+  .item-servicio{width: 90% !important;}
+  .dfx_sec_beneficios{height: auto !important;}
+  .item-beneficios{width: 90% !important;}
+  .logo-item{width: 65% !important;}
+  .owl-nav{display: none !important;}
+  .caso{padding-left: 0px !important;}
+  .wrapper-casos{display: flex !important;}
+  .wrapper-casos img{width: 60% !important;}
+  .info_contacto{display: none !important;}
+  .black-bg , .white-bg{width: 100% !important;}
+  .item-beneficios{padding: 25px !important;}
+  .custom-margin{margin: 0px !important;}
+  .white-bg .container .pt-5 {padding: 0px !important;}
+  .white-bg .container .mb-5 {margin: 0px !important;}
+  .item-servicio{display: flex; flex-direction: column; align-items: center;}
+  .wrapper-casos{width: 100% !important;height: 355px !important;}
+
+}
+
+/* Landscape */
+@media only screen (-webkit-min-device-pixel-ratio: 2)
+and (orientation: landscape) {
+  .logo_content{width: 100%;padding-left: 0;padding-right: 65px}
+  .nav-bar .wrapper .item-nav-bar + .item-nav-bar{display: none;}
+  .nav-bar .subtitle{margin-right: 0px !important;}
+  #cta-mkt{height: 400px !important}
+  .item-cta{margin: 0px !important;padding: 20px;text-align: center !important;line-height: 1 !important;}
+  .s45{font-size: 30px !important;}
+  .line-white{width: 100% !important;}
+  .line-yellow{width: 100%;}
+  .item-title{text-align: center !important;}
+  .item-servicio{width: 90% !important;}
+  .dfx_sec_beneficios{height: auto !important;}
+  .item-beneficios{width: 90% !important;}
+  .logo-item{width: 65% !important;}
+  .owl-nav{display: none !important;}
+  .caso{padding-left: 0px !important;}
+  .wrapper-casos{display: flex !important;}
+  .wrapper-casos img{width: 60% !important;}
+  .info_contacto{display: none !important;}
+  .black-bg , .white-bg{width: 100% !important;}
+  .item-beneficios{padding: 25px !important;}
+  .custom-margin{margin: 0px !important;}
+  .white-bg .container .pt-5 {padding: 0px !important;}
+  .white-bg .container .mb-5 {margin: 0px !important;}
+  .item-servicio{display: flex; flex-direction: column; align-items: center;}
+  .wrapper-casos{width: 100% !important;height: 355px !important;}
+
+}
+
+/* ----------- iPhone 6+, 7+ and 8+ ----------- */
+
+/* Portrait and Landscape */
+@media only screen and (-webkit-min-device-pixel-ratio: 3) {
+
+  .logo_content{width: 100%;padding-left: 0;padding-right: 65px}
+  .nav-bar .wrapper .item-nav-bar + .item-nav-bar{display: none;}
+  .nav-bar .subtitle{margin-right: 0px !important;}
+  .main h1{font-size: 35pt !important;}
+  #cta-mkt{height: 400px !important}
+  .item-cta{margin: 0px !important;padding: 20px;text-align: center !important;line-height: 1 !important;}
+  .s45{font-size: 30px !important;}
+  .line-white{width: 100% !important;}
+  .line-yellow{width: 100%;}
+  .item-title{text-align: center !important;}
+  .item-servicio{width: 90% !important;}
+  .dfx_sec_beneficios{height: auto !important;}
+  .item-beneficios{width: 90% !important;}
+  .logo-item{width: 65% !important;}
+  .owl-nav{display: none !important;}
+  .caso{padding-left: 0px !important;}
+  .wrapper-casos{display: flex !important;}
+  .wrapper-casos img{width: 60% !important;}
+  .info_contacto{display: none !important;}
+  .black-bg , .white-bg{width: 100% !important;}
+  .item-beneficios{padding: 25px !important;}
+  .custom-margin{margin: 0px !important;}
+  .white-bg .container .pt-5 {padding: 0px !important;}
+  .white-bg .container .mb-5 {margin: 0px !important;}
+  .item-servicio{display: flex; flex-direction: column; align-items: center;}
+  .wrapper-casos{width: 100% !important;height: 355px !important;}
+
+}
+
+/* Portrait */
+@media only screen and (-webkit-min-device-pixel-ratio: 3)
+and (orientation: portrait) {
+  .logo_content{width: 100%;padding-left: 0;padding-right: 65px}
+  .nav-bar .wrapper .item-nav-bar + .item-nav-bar{display: none;}
+  .nav-bar .subtitle{margin-right: 0px !important;}
+  .main h1{font-size: 35pt !important;}
+  #cta-mkt{height: 400px !important}
+  .item-cta{margin: 0px !important;padding: 20px;text-align: center !important;line-height: 1 !important;}
+  .s45{font-size: 30px !important;}
+  .line-white{width: 100% !important;}
+  .line-yellow{width: 100%;}
+  .item-title{text-align: center !important;}
+  .item-servicio{width: 90% !important;}
+  .dfx_sec_beneficios{height: auto !important;}
+  .item-beneficios{width: 90% !important;}
+  .logo-item{width: 65% !important;}
+  .owl-nav{display: none !important;}
+  .caso{padding-left: 0px !important;}
+  .wrapper-casos{display: flex !important;}
+  .wrapper-casos img{width: 60% !important;}
+  .info_contacto{display: none !important;}
+  .black-bg , .white-bg{width: 100% !important;}
+  .item-beneficios{padding: 25px !important;}
+  .custom-margin{margin: 0px !important;}
+  .white-bg .container .pt-5 {padding: 0px !important;}
+  .white-bg .container .mb-5 {margin: 0px !important;}
+  .item-servicio{display: flex; flex-direction: column; align-items: center;}
+  .wrapper-casos{width: 100% !important;height: 355px !important;}
+
+}
+
+/* Landscape */
+@media only screen (-webkit-min-device-pixel-ratio: 3)
+and (orientation: landscape) {
+
+  .logo_content{width: 100%;padding-left: 0;padding-right: 65px}
+  .nav-bar .wrapper .item-nav-bar + .item-nav-bar{display: none;}
+  .nav-bar .subtitle{margin-right: 0px !important;}
+  .main h1{font-size: 35pt !important;}
+  #cta-mkt{height: 400px !important}
+  .item-cta{margin: 0px !important;padding: 20px;text-align: center !important;line-height: 1 !important;}
+  .s45{font-size: 30px !important;}
+  .line-white{width: 100% !important;}
+  .line-yellow{width: 100%;}
+  .item-title{text-align: center !important;}
+  .item-servicio{width: 90% !important;}
+  .dfx_sec_beneficios{height: auto !important;}
+  .item-beneficios{width: 90% !important;}
+  .logo-item{width: 65% !important;}
+  .owl-nav{display: none !important;}
+  .caso{padding-left: 0px !important;}
+  .wrapper-casos{display: flex !important;}
+  .wrapper-casos img{width: 60% !important;}
+  .info_contacto{display: none !important;}
+  .black-bg , .white-bg{width: 100% !important;}
+  .item-beneficios{padding: 25px !important;}
+  .custom-margin{margin: 0px !important;}
+  .white-bg .container .pt-5 {padding: 0px !important;}
+  .white-bg .container .mb-5 {margin: 0px !important;}
+  .item-servicio{display: flex; flex-direction: column; align-items: center;}
+  .wrapper-casos{width: 100% !important;height: 355px !important;}
+
+
+}
+
+
+/* ----------- iPhone X ----------- */
+
+/* Portrait and Landscape */
+@media only (-webkit-min-device-pixel-ratio: 3) {
+  .logo_content{width: 100%;padding-left: 0;padding-right: 65px}
+  .nav-bar .wrapper .item-nav-bar + .item-nav-bar{display: none;}
+  .nav-bar .subtitle{margin-right: 0px !important;}
+  .main h1{font-size: 35pt !important;}
+  #cta-mkt{height: 400px !important}
+  .item-cta{margin: 0px !important;padding: 20px;text-align: center !important;line-height: 1 !important;}
+  .s45{font-size: 30px !important;}
+  .line-white{width: 100% !important;}
+  .line-yellow{width: 100%;}
+  .item-title{text-align: center !important;}
+  .item-servicio{width: 90% !important;}
+  .dfx_sec_beneficios{height: auto !important;}
+  .item-beneficios{width: 90% !important;}
+  .logo-item{width: 65% !important;}
+  .owl-nav{display: none !important;}
+  .caso{padding-left: 0px !important;}
+  .wrapper-casos{display: flex !important;}
+  .wrapper-casos img{width: 60% !important;}
+  .info_contacto{display: none !important;}
+  .black-bg , .white-bg{width: 100% !important;}
+  .item-beneficios{padding: 25px !important;}
+  .custom-margin{margin: 0px !important;}
+  .white-bg .container .pt-5 {padding: 0px !important;}
+  .white-bg .container .mb-5 {margin: 0px !important;}
+  .item-servicio{display: flex; flex-direction: column; align-items: center;}
+  .wrapper-casos{width: 100% !important;height: 355px !important;}
+
+
+
+
+}
+
+/* Portrait */
+@media only screen (-webkit-min-device-pixel-ratio: 3)
+and (orientation: portrait) {
+  .logo_content{width: 100%;padding-left: 0;padding-right: 65px}
+  .nav-bar .wrapper .item-nav-bar + .item-nav-bar{display: none;}
+  .nav-bar .subtitle{margin-right: 0px !important;}
+  .main h1{font-size: 35pt !important;}
+  #cta-mkt{height: 400px !important}
+  .item-cta{margin: 0px !important;padding: 20px;text-align: center !important;line-height: 1 !important;}
+  .s45{font-size: 30px !important;}
+  .line-white{width: 100% !important;}
+  .line-yellow{width: 100%;}
+  .item-title{text-align: center !important;}
+  .item-servicio{width: 90% !important;}
+  .dfx_sec_beneficios{height: auto !important;}
+  .item-beneficios{width: 90% !important;}
+  .logo-item{width: 65% !important;}
+  .owl-nav{display: none !important;}
+  .caso{padding-left: 0px !important;}
+  .wrapper-casos{display: flex !important;}
+  .wrapper-casos img{width: 60% !important;}
+  .info_contacto{display: none !important;}
+  .black-bg , .white-bg{width: 100% !important;}
+  .item-beneficios{padding: 25px !important;}
+  .custom-margin{margin: 0px !important;}
+  .white-bg .container .pt-5 {padding: 0px !important;}
+  .white-bg .container .mb-5 {margin: 0px !important;}
+  .item-servicio{display: flex; flex-direction: column; align-items: center;}
+  .wrapper-casos{width: 100% !important;height: 355px !important;}
+
+
+
+}
+
+/* Landscape */
+@media only screen (-webkit-min-device-pixel-ratio: 3)
+and (orientation: landscape) {
+  .logo_content{width: 100%;padding-left: 0;padding-right: 65px}
+  .nav-bar .wrapper .item-nav-bar + .item-nav-bar{display: none;}
+  .nav-bar .subtitle{margin-right: 0px !important;}
+  .main h1{font-size: 35pt !important;}
+  /* new */
+  #cta-mkt{height: 400px !important}
+  .item-cta{margin: 0px !important;text-align: center !important;line-height: 1 !important;}
+  .s45{font-size: 30px !important;}
+  #cta-mkt{height: 400px !important}
+  .item-cta{margin: 0px !important;padding: 20px;text-align: center !important;line-height: 1 !important;}
+  .s45{font-size: 30px !important;}
+  .line-white{width: 100% !important;}
+  .line-yellow{width: 100%;}
+  .item-title{text-align: center !important;}
+  .item-servicio{width: 90% !important;}
+  .dfx_sec_beneficios{height: auto !important;}
+  .item-beneficios{width: 90% !important;}
+  .logo-item{width: 65% !important;}
+  .owl-nav{display: none !important;}
+  .caso{padding-left: 0px !important;}
+  .wrapper-casos{display: flex !important;}
+  .wrapper-casos img{width: 60% !important;}
+  .info_contacto{display: none !important;}
+  .black-bg , .white-bg{width: 100% !important;}
+  .item-beneficios{padding: 25px !important;}
+  .custom-margin{margin: 0px !important;}
+  .white-bg .container .pt-5 {padding: 0px !important;}
+  .white-bg .container .mb-5 {margin: 0px !important;}
+  .item-servicio{display: flex; flex-direction: column; align-items: center;}
+  .wrapper-casos{width: 100% !important;height: 355px !important;}
+
+}

@@ -1,0 +1,78 @@
+@import url(normalize.css);
+@import url(font/stylesheet.css);
+@font-face {
+  font-family: 'weather';
+  src: url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/93/artill_clean_icons-webfont.eot');
+  src: url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/93/artill_clean_icons-webfont.eot?#iefix') format('embedded-opentype'),
+  url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/93/artill_clean_icons-webfont.woff') format('woff'),
+  url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/93/artill_clean_icons-webfont.ttf') format('truetype'),
+  url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/93/artill_clean_icons-webfont.svg#artill_clean_weather_iconsRg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+.img_tweet{width: 100%; border: 15px solid #691b31;}
+.logo{position: relative; top: 70px; left: 80px; z-index: 1; border-radius: 200px;}
+.espacio{padding-top: 150px;padding-right: 150px;padding-left: 150px; }
+.espacio2{padding-top: 100px;font-family: "montserratbold";}
+.center{text-align: center;}
+.center2{text-align: center; font-size: 35px;}
+.cirblue{color: #0084B4;font-size: 50px;padding-right: 10px;}
+.screenname{color: white;font-size: 78px;font-weight: bold;}
+.fechatweet{color: white;font-size: 85px;}
+.fulltexttweet2{color: white;font-weight: bold;font-size: 64px;padding-top: 40px;}
+.datoslikes{color: #8d9aa9;font-size: 45px; position: relative; float: left;}
+.retweeticon{padding-left: 20px;padding-right: 20px;}
+.hearticon{padding-left: 20px;padding-right: 20px;}
+.pad1{padding: 40px;}
+.pad2{padding: 40px; color: inherit; background-color:#f5f5f5;}
+.logo_name{position: relative;top: -10px;padding-right: 10px;}
+.hora_redes{color: white;position: absolute;top: 287px;right: 0;}
+.twittericon{color: #00acee;position: absolute;top: 64px;right: 35%;font-size: 80px;z-index: 99999999;}
+.twittericonst{position: absolute;top: 64px;right: 19%;font-size: 80px;z-index: 99999999;}
+.hora{position: relative; float: right;}
+.hora_nombre{position: relative;float: left; padding-left: 143px;}
+.horaopa{width: 70%;color: white;background: rgba(0, 0, 0, 0.2);padding: 23px;font-size: 50px;position: absolute;top: 170px;right: 0;font-weight: bold;}
+.header_coppel{background-color: rgb(29,161,242 , 0.5);background-image: url('../img/copp_back.jpg'); background-size: cover; background-position: top;}
+.facebook_top{font-size: 80px;position: relative;left: 570px;top: 169px;z-index: 1;color: #3B5998;}
+.max_imagen{text-align: center;width: 100%}
+.fondoforogo3{position: absolute;top: 0;z-index: -1;}
+.espacio-top{}
+.twittercolor{color: #1da1f2;font-size: 16em;}
+.centrarmedio{}
+.centrarmedio2{}
+.pad40{padding-top: 40px;}
+.centrarmedio img{width: 100%;height: auto;}
+.facebookcolor{color:#29487d;font-size: 14em;padding-right: 15px;}
+video{width: 100%;height: auto;}
+iframe{width: 100%;height: -webkit-fill-available;}
+footer{position: absolute;bottom: 0;}
+.fondo{background-color:rgba(7,4,32,1);}
+@media only screen and (min-width: 1920px){
+  .pad1 {padding: 0px;width: 45%;margin-left: 70px; top: -30px; left: 100px;}
+  .pad2 {padding: 40px; margin-top: 0px; max-height: 680px; overflow: hidden;}
+  .max_imagen {width: 60%; object-fit: cover;}
+  .facebook_top{left: 1300px;top: 170px;}
+  .header_pemex {margin-top: -120px; padding-bottom: 0px;}
+  .horaopa{width: 41%;}
+  .logo{position: relative;top: 125px;left: 80px;z-index: 1;}
+  .center{text-align: center;height: 300px;width: 650px;}
+}
+
+@media only screen and (max-width: 1440px){
+
+}
+@media only screen and (max-width: 1366px){
+
+
+}
+@media only screen and (max-width: 1024px){
+
+}
+
+@media only screen and (max-width: 768px){
+
+}
+
+@media only screen and (max-width: 479px){
+
+}

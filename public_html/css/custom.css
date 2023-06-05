@@ -1,0 +1,138 @@
+.dfx_sec_laboratorio {
+  min-height: 600px;
+  background: url("../images/dfx_laboratorio_back.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+.dfx_sec_blog {
+  background: url("../images/dfx_blog_bg.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+.nav-bar .subtitle.custom-nav {
+  font-size: 30px;
+}
+.main h1.custom {
+  color: #fff !important;
+}
+.item-beneficios.resize {
+  width: 33%;
+}
+.item-beneficios .custom {
+  font-size: 22px;
+}
+.text-servicio {
+  background: #e5e5e5;
+  padding: 20px;
+  height: auto;
+  width: 90%;
+}
+.text-servicio-empty {
+  background: #fff;
+  padding: 20px;
+  height: 190px;
+  width: 90%;
+}
+.mbold {
+  font-family: 'Montserrat Bold' !important;
+}
+.s45 {
+  font-size: 33px !important;
+}
+.title-destacado {
+  font-weight: bold;
+  line-height: 1;
+  margin: 0;
+}
+.button-see {
+  width: 30%;
+}
+.title-noticia h2 {
+  font-size: 15px;
+}
+.date-noticia {
+  width: 13% !important;
+  padding: 3px 6px;
+  font-size: 13px;
+  background: #0b0b0b;
+  margin-right: 20px;
+}
+.title-noticia {
+  width: 100% !important;
+}
+.button-noticia {
+  width: 40%;
+}
+.img-blog {
+  position: relative;
+}
+.img-blog .next-blog {
+  position: absolute;
+  top: 50%;
+  right: -45px;
+}
+.dfx_sec_exito {
+  min-height: auto !important;
+}
+.dfx_sec_exito2 {
+  overflow: hidden;
+  min-height: auto;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background: url("../images/dfx_back_trabajo.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #fff;
+  z-index: 101;
+  background-attachment: fixed;
+}
+.dfx_sec_exito2 h2 {
+  background: #febe00;
+  padding: 10px 15px;
+}
+.dfx_text {
+  margin-top: 15%;
+}
+#frm-cita input {
+  height: 50px;
+}
+#frm-cita input,
+#frm-cita textarea {
+  border-bottom: 1px solid #999 !important;
+}
+.form-wrapper {
+  background: none !important;
+}
+.select2-container--default .select2-selection--single {
+  border-bottom: 1px solid #999 !important;
+}
+#cita {
+  background: url("../images/dfx_info_contacto_back.png") !important;
+  background-position: center !important;
+  background-size: cover;
+}
+.smooke {
+  color: #999;
+}
+#btnSubmit2 {
+  background: #2e3131;
+  border-radius: 50px;
+  color: #fff;
+}
+.videos-content {
+  display: none;
+  height: 100vh;
+  position: fixed;
+  background: url("../images/dfx_menu_back.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  z-index: 101;
+  width: 100%;
+  color: #fff;
+}
